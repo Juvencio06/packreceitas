@@ -1,0 +1,6 @@
+{
+  "name": "Pack de Almoços — 100 Receitas",
+  "description": "100 receitas para variar o almoço sem complicação. Tenha mais opções para consultar quando faltar inspiração.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
